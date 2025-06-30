@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rdawe/final_thefilter/final_thefilter.srcs/sources_1/new/envelope.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module envelope
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rdawe/final_thefilter/final_thefilter.srcs/sources_1/new/filter20kHz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module filter20kHz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rdawe/final_thefilter/final_thefilter.srcs/sources_1/new/filter25kHz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module filter25kHz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rdawe/final_thefilter/final_thefilter.srcs/sources_1/new/filter30kHz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module filter30kHz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rdawe/final_thefilter/final_thefilter.srcs/sources_1/new/filter35kHz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module filter35kHz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/rdawe/final_thefilter/final_thefilter.srcs/sim_1/new/envelope_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module envelope_tb
